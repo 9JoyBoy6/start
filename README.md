@@ -1,0 +1,3 @@
+# start
+
+Quelques fonctions javascript
